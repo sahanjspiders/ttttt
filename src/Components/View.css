@@ -1,0 +1,19 @@
+.viewbox{
+    display: flex;
+    flex-wrap: wrap;
+    width: 1600px;
+    margin: auto;
+    margin-top: 100px;
+    justify-content: space-around;
+    border: 5px;
+    border-style: solid;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px 5px;
+    background-color: #f7f3f2;
+
+}
+
+.card-img-top{
+    height: 250px;
+    width: 200px;
+}
